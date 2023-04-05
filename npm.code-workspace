@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../npm"
+		},
+		{
+			"path": "../A-npm"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "npm"
+	}
+}
